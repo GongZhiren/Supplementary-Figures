@@ -1,1 +1,1 @@
-# Rebuttal-of-ICML-5954-submission
+# Anonymous supplementary of figures
